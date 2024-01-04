@@ -20,9 +20,6 @@
                     <img src="../assets/img/5.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="../assets/img/8.jpg" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
                     <img src="../assets/img/9.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
